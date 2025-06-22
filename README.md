@@ -1,4 +1,4 @@
-# Laporan Proyek Recomendation System - Book Recommendation System and Prediction
+# Laporan Proyek Recommendation System - Book Recommendation System and Prediction
 
 ## Project Overview
 
